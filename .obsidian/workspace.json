@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "64f76aa9d2fd07e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0129a0b9520a57e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff7990103108dccf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1377b3c422df45fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "017cef03967eaa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nRF5x Dev under Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7ba03bd552c58b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "513ca68ee278eb2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d276eaed24d27a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2979653fe2b150d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdf47b6d117ac5ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "8e616697dc02f04e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9700b9070332fe24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e264489671e22dfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nRF5x Dev under Windows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "866476121638e49b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nRF5x Dev under Windows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a2010f1095404a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1f13702461653bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nRF5x Dev under Windows.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "017cef03967eaa23",
+  "lastOpenFiles": [
+    "blog.reds.ch.md",
+    "nRF5x Dev under Windows.md",
+    "Set up Eclipse for nRF52 dev under Linux.md",
+    "Set up nRF52 command line env.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/log.log",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa.bin",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa.hex",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa.out",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa.map",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa.in",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa/system_nrf52840.c.o",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa/system_nrf52840.c.d",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa/main.c.o",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/mbr/armgcc/_build/nrf52840_xxaa/main.c.d",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/modules/nrfx/doc/buildfiles/nordic_small.png",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/modules/nrfx/README.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/modules/nrfx/CHANGELOG.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/lwip/src/apps/httpd/fs/img/sics.gif",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/tab_r.gif",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/tab_l.gif",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/tab_b.gif",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/ftv2vertline.png",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/ftv2pnode.png",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/ftv2plastnode.png",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/ftv2node.png",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/protothreads/pt-1.4/doc/html/ftv2mnode.png",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/infineon/pal/nrf5x/README.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/infineon/examples/ecdsa_utils/README.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/mbedtls/programs/README.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/mbedtls/ChangeLog.d/00README.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/mbedtls/README.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/mbedtls/CONTRIBUTING.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/infineon/README.md",
+    "nRF52/nRF5_SDK_17.1.0_ddde560/external/infineon/CONTRIBUTING.md",
+    "Getting Started with nRF SDK.md",
+    "ncs/nrf/ext/curl/include/README.md"
+  ]
+}
